@@ -1,39 +1,84 @@
-# Online Shoppers Purchase Intention Prediction
+# Project Title : Online Shoppers Purchase Intention Prediction
 
-This project aims to predict whether a website visitor will complete a purchase based on their browsing behavior and session characteristics. Using the Online Shoppers Purchasing Intention Dataset from Kaggle, I applied machine learning techniques to analyze customer behavior and build predictive models for revenue generation.
+## Overview
+This machine learning project predicts whether a website visitor will complete a purchase (Revenue = True) or leave without generating revenue.
+The objective is to analyze customer browsing behavior and build predictive models that help businesses identify high-intent customers and improve conversion rates.
 
-# Project Objectives
-Analyze online shopping behavior patterns.
-Identify factors that influence purchasing decisions.
-Build and compare multiple classification models.
-Evaluate model performance using appropriate metrics.
-Generate business insights to support data-driven decision-making.
+## Business Problem
+E-commerce businesses receive thousands of visitors daily, but only a small percentage complete a purchase.
+By predicting purchase intention, companies can:
 
-# Technologies Used
-Python / Pandas / NumPy / Matplotlib / Seaborn / Scikit-learn
+- Target potential buyers
+- Personalize marketing campaigns
+- Improve customer experience
+- Increase revenue
+- Optimize advertising spending
 
-# Machine Learning Models
-Logistic Regression
-K-Nearest Neighbors (KNN)
-Support Vector Machine (SVM)
-Decision Tree
-Random Forest
-Bagging Classifier
+## Dataset
+Source: Kaggle - Online Shoppers Purchasing Intention Dataset
 
-# Business Impact
-The developed model can help e-commerce businesses:
+The dataset contains information about:
 
-Identify potential buyers.
-Improve marketing campaigns.
-Increase conversion rates.
-Enhance customer targeting strategies.
-Optimize website user experience.
+- Administrative pages visited
+- Product-related pages
+- Bounce rates
+- Exit rates
+- Visitor type
+- Traffic source
+- Month of visit
+- Weekend activity
 
-# Dataset Source: 
-Kaggle – Online Shoppers Purchasing Intention Dataset.
+Target Variable:
+- Revenue (Yes/No)
 
-# Author :
+## Project Workflow
+
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis (EDA)
+4. Feature Engineering
+5. Data Preprocessing
+6. Model Training
+7. Model Evaluation
+8. Performance Comparison
+
+## Exploratory Data Analysis
+
+### Class Distribution
+
+![Class Distribution](images/class_distribution.png)
+
+### Correlation Heatmap
+
+![Heatmap](images/correlation_heatmap.png)
+
+## Machine Learning Models
+
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
+- Decision Tree
+- Random Forest
+- Bagging Classifier
+
+# Best Performing Model
+Decison Tree achieved the highest performance and demonstrated strong generalization on unseen data.
+
+## Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- Jupyter Notebook
+
+## Author
+
 Hamza Charrad
 Aspiring Data Analyst | Machine Learning Enthusiast
 
-🔗 LinkedIn: [https://www.linkedin.com/in/hamza-charrad/]  
+LinkedIn:
+[https://www.linkedin.com/in/hamza-charrad/]  
+
