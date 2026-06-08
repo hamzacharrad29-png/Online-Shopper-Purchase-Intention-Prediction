@@ -46,7 +46,7 @@ Target Variable:
 
 ### Class Distribution
 
-![Class Distribution](images/class_distribution.png)
+![Class Distribution](https://github.com/hamzacharrad29-png/Online-Shopper-Purchase-Intention-Prediction/blob/4dc824da378a23bf58b5cd890964f962ec19e346/Distribution%20des%20revenue%20True%20Vs%20False%20.png)
 
 ### Correlation Heatmap
 
