@@ -60,6 +60,7 @@ Target Variable:
 - Decision Tree
 - Random Forest
 - Bagging Classifier
+- **Evaluate with Cross validation **
 
 # Best Performing Model
 **Decison Tree** achieved the highest performance and demonstrated strong generalization on unseen data.
