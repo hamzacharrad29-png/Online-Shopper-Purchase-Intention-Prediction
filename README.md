@@ -95,7 +95,7 @@ The application returns:
 - Purchase Likelihood (Yes/No)
 - Prediction Probability Score
 ## application image 
-![application image](https://github.com/hamzacharrad29-png/Online-Shopper-Purchase-Intention-Prediction/blob/76baaf56fea6276ab07dc318320934296f274459/ROC%20Curve%20Model%20Comparaison.png)
+![application image](https://github.com/hamzacharrad29-png/Online-Shopper-Purchase-Intention-Prediction/blob/07359de798d7c720811ce329e4742edc041c6b77/APP%20.png)
 ## Business Value
 This solution can help e-commerce teams identify high-intent visitors, improve customer targeting, optimize marketing strategies, and support data-driven decision-making.
 
