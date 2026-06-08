@@ -63,7 +63,10 @@ Target Variable:
 
 # Best Performing Model
 Decison Tree achieved the highest performance and demonstrated strong generalization on unseen data.
-![Best Performing Model]()
+![ROC Curve Model Comparaion](https://github.com/hamzacharrad29-png/Online-Shopper-Purchase-Intention-Prediction/blob/76baaf56fea6276ab07dc318320934296f274459/ROC%20Curve%20Model%20Comparaison.png)
+
+![Confusion Matrix Best Model](https://github.com/hamzacharrad29-png/Online-Shopper-Purchase-Intention-Prediction/blob/76baaf56fea6276ab07dc318320934296f274459/ROC%20Curve%20Model%20Comparaison.png)
+
 
 ## Technologies
 
