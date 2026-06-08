@@ -62,11 +62,11 @@ Target Variable:
 - Bagging Classifier
 
 # Best Performing Model
-Decison Tree achieved the highest performance and demonstrated strong generalization on unseen data.
+**Decison Tree** achieved the highest performance and demonstrated strong generalization on unseen data.
+
 ![ROC Curve Model Comparaion](https://github.com/hamzacharrad29-png/Online-Shopper-Purchase-Intention-Prediction/blob/76baaf56fea6276ab07dc318320934296f274459/ROC%20Curve%20Model%20Comparaison.png)
 
-![Confusion Matrix Best Model](https://github.com/hamzacharrad29-png/Online-Shopper-Purchase-Intention-Prediction/blob/76baaf56fea6276ab07dc318320934296f274459/ROC%20Curve%20Model%20Comparaison.png)
-
+![Confusion Matrix Best Model](https://github.com/hamzacharrad29-png/Online-Shopper-Purchase-Intention-Prediction/blob/16e02fc3bef27d6c1cfaaae24c4b0d0879e7cd77/confusion%20matrix%20best%20model%20.png)
 
 ## Technologies
 
