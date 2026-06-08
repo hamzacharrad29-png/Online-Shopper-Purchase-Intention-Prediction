@@ -29,4 +29,11 @@ Increase conversion rates.
 Enhance customer targeting strategies.
 Optimize website user experience.
 
-# Dataset Source: Kaggle – Online Shoppers Purchasing Intention Dataset.
+# Dataset Source: 
+Kaggle – Online Shoppers Purchasing Intention Dataset.
+
+# Author :
+Hamza Charrad
+Aspiring Data Analyst | Machine Learning Enthusiast
+
+🔗 LinkedIn: [https://www.linkedin.com/in/hamza-charrad/]  
