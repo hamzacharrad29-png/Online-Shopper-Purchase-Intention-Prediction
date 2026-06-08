@@ -78,9 +78,28 @@ Target Variable:
 - Seaborn
 - Scikit-Learn
 - Jupyter Notebook
+- Streamlit (to build the app)
+
+## Web Application
+To make the machine learning model accessible to non-technical users, I developed an interactive Streamlit application that predicts whether a website visitor is likely to complete a purchase.
+## Features
+- Interactive and user-friendly interface
+- Real-time purchase intention prediction
+- Probability score for each prediction
+- Integration of the trained Decision Tree model (best model)
+
+## User Inputs
+The application allows users to enter all the details needed 
+## Prediction Output
+The application returns:
+- Purchase Likelihood (Yes/No)
+- Prediction Probability Score
+## application image 
+![application image](https://github.com/hamzacharrad29-png/Online-Shopper-Purchase-Intention-Prediction/blob/76baaf56fea6276ab07dc318320934296f274459/ROC%20Curve%20Model%20Comparaison.png)
+## Business Value
+This solution can help e-commerce teams identify high-intent visitors, improve customer targeting, optimize marketing strategies, and support data-driven decision-making.
 
 ## Author
-
 Hamza Charrad
 
 Aspiring Data Analyst | Machine Learning Enthusiast
