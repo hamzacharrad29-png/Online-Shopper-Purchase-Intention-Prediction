@@ -50,7 +50,7 @@ Target Variable:
 
 ### Correlation Heatmap
 
-![Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](https://github.com/hamzacharrad29-png/Online-Shopper-Purchase-Intention-Prediction/blob/c7d024f3a0849c28472b22b9515f641466fb00b9/Correlation%20Heatmap%20.png)
 
 ## Machine Learning Models
 
@@ -63,6 +63,7 @@ Target Variable:
 
 # Best Performing Model
 Decison Tree achieved the highest performance and demonstrated strong generalization on unseen data.
+![Best Performing Model]()
 
 ## Technologies
 
